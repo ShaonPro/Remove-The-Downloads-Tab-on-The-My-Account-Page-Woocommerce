@@ -1,4 +1,4 @@
-# Remove Download Tab From Woocommerce My Account Page #
+## Remove Download Tab From Woocommerce My Account Page ##
 
 #### To Remove Downloads Tab From WooCommerce My Account Page, Use these Codes to Your Function.php file ####
 
